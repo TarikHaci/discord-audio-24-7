@@ -1,0 +1,2 @@
+npm i ffmpeg-static
+run > build. (npm run build)
